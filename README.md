@@ -17,5 +17,5 @@ Then just specify the router IP address, and take a sit. <br>
 
 ######
 
-*Coded and uploaded by GodZilo.*
+*Created by GodZilo.*
 
